@@ -1,0 +1,75 @@
+
+1-  Organização e Planejamento.
+
+-- API mercado livre  
+-- API Cotação de moeda
+
+
+
+2 - Definir /Escolher um tema para o projeto e registrar  em padlet  o nome do projeto  e o nome curto.
+
+- Grupo de  investimento. (Pensar em um nome) Plan A
+- Gerenciamento de venda (Mercado livre)  Plan B
+
+
+
+Grupo:
+
+Luiz Buratti     R.A 2019101518
+Gabriel Machado  R.A 2019101628
+Paulo Henrique   R.A 2019101757
+
+
+3 - Descrever a aplicação propostas e registrar em padlet.
+
+-
+-
+-
+
+4- Segmentar o desenvolvimento  e dividir responsabilidades e registrar trello 'Gerenciamento de tarefas'
+
+
+
+
+
+
+5- Definição de preparo e ponto e registrar em padlet.
+
+
+
+
+6- Criar um cronograma com sprint semanal e registrar em padlet.
+
+
+
+
+Repositorio do GIT:
+
+https://github.com/GabrielRinaldin/TrabalhoSemestre5
+
+
+
+Trello:
+
+https://trello.com/b/qDMgXISc/bem-vindo-ao-trello
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
